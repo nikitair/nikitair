@@ -14,6 +14,8 @@ Specializing in:
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nikitair&hide_border=true&theme=default)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikitair&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## Contact
