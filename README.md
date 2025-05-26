@@ -1,8 +1,7 @@
 Backend developer based in Kyiv, Ukraine
 
 Specializing in:
-- Python (FastAPI, SQLModel, Asyncpg)
-- Postgres
+- Python (FastAPI)
 - Retool
 
 ---
