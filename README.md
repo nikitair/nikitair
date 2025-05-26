@@ -9,7 +9,7 @@ Specializing in:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitair&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&theme=default)
+[![GitHub Statistics](https://u8views.com/api/v1/github/profiles/121157569/views/day-week-month-total-count.svg)](https://u8views.com/github/nikitair)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitair&layout=compact&hide_border=true)
 
@@ -22,6 +22,3 @@ Specializing in:
 [LinkedIn](https://www.linkedin.com/in/nikitastoliarov)  
 [Website](https://www.intellines.com)
 
----
-
-https://u8views.com/github/nikitair
