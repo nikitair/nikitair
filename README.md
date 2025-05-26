@@ -9,7 +9,7 @@ Specializing in:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitair&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&include_all_commits=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitair&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitair&layout=compact&hide_border=true)
 
