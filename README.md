@@ -22,4 +22,3 @@ Specializing in:
 [LinkedIn](https://www.linkedin.com/in/nikitastoliarov)  
 [Website](https://www.intellines.com)
 
-[![Nikita Stoliarov profile views](https://u8views.com/api/v1/github/profiles/121157569/views/day-week-month-total-count.svg)](https://u8views.com/github/nikitair)
