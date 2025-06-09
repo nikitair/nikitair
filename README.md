@@ -12,6 +12,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/nikitastoliarov)  
 [Website](https://www.intellines.com)
-[Telegram[(t.me/nikitairs)
+[Telegram](https://t.me/nikitairs)
 [WhatsApp](https://wa.me/+380671063738)
 
