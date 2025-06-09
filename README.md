@@ -1,11 +1,3 @@
-Backend developer based in Kyiv, Ukraine
-
-Specializing in:
-- Python (FastAPI)
-- Retool
-
----
-
 ## GitHub Statistics
 
 [![GitHub Statistics](https://u8views.com/api/v1/github/profiles/121157569/views/day-week-month-total-count.svg)](https://u8views.com/github/nikitair)
@@ -20,4 +12,6 @@ Specializing in:
 
 [LinkedIn](https://www.linkedin.com/in/nikitastoliarov)  
 [Website](https://www.intellines.com)
+[Telegram[(t.me/nikitairs)
+[WhatsApp](https://wa.me/+380671063738)
 
